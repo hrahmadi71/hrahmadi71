@@ -14,4 +14,4 @@ I'm eager to contribute to innovative software projects and open-source packages
 
 You can send me a message or connect with me on [LinkedIn](https://www.linkedin.com/in/hrahmadi71). I'm always excited to meet like-minded developers and AI enthusiasts!
 
-If you're not a social media person, feel free to reach out via [GitHub Issues](https://github.com/hrahmad71/hrahmadi71/issues). I'm always open to discussions, collaborations, and knowledge sharing.
+If you're not a social media person, feel free to reach out via [creating a new GitHub Issue on my profile repo](https://github.com/hrahmadi71/hrahmadi71/issues/new). I'm always open to discussions, collaborations, and knowledge sharing.
