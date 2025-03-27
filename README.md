@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a passionate **Software Engineer** specializing in **Python** and **backend design and development**. With a solid background in web development, I've honed my skills in creating scalable and efficient systems.
+I'm **Hamidreza**, a passionate **Software Engineer** specializing in **Python** and **backend design and development**. With a solid background in web development, I've honed my skills in creating scalable and efficient systems.
 
 ## 🌱 Currently Learning
 
